@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: aqua;
+    font-family:monospace;
+    font-size: 40px;
+}
+body{
+    background-color: darkblue;
+    color:cyan;
+    text-align: center;
+    font-family:monospace;
+    font-size:20px;
+}
+h3{
+    font-size:30px;
+}
